@@ -1,5 +1,5 @@
 # retro-paint
-An afternoon well spent with Java, developing what I imagine the ancestor of Paint looked like.
+An afternoon well spent in my first weeks learning Java, developing what I imagine the ancestor of Paint looked like.
 
 To play around with it, simply clone the repo and run the main class.
 
